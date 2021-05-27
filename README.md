@@ -1,13 +1,21 @@
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 <div >
+<<<<<<< HEAD
   <img src="" align="right" width="300">
+=======
+  <img src="https://github.com/harshita02897/harshita-sharma/blob/main/32903795.jpg" align="right" width="300">
+>>>>>>> 6c37426cbc5f8393bc6e594665e387e0f516c43f
 
 <ul>
   <li><b>👤 Name: </b> Harshita Sharma</li>
   <li><b>😄 Pronouns:</b> She/Her </li>
   <li><b>📍 Location:</b> Jaipur </li>
+<<<<<<< HEAD
   <li><b>💼 Job: </b> Software developer @ <a href="https://www.wipro.com/">Appirio-Wipro</a></li>
+=======
+  <li><b>💼 Job: </b> Software developer @ <a href="wipro.com">Appirio-Wipro</a></li>
+>>>>>>> 6c37426cbc5f8393bc6e594665e387e0f516c43f
   <li><b>📣 Languages:</b> English & Hindi</li>
 </ul>
 
@@ -22,6 +30,7 @@
 
 - 🔭 coding automation projects & working on my personal website.
 - 🌱 learning Angular and React (Both are SO COOL!)
+<<<<<<< HEAD
 - 📚 Reading: **"The Magic of Thinking Big"**
 - 🎮 playing Sudoku and Chess 🧟
 
@@ -33,4 +42,9 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
+=======
+- 📚 Reading: **"The Magic of thinking Big"**
+- 🎮 playing Sudoku and Chess 🧟
+
+>>>>>>> 6c37426cbc5f8393bc6e594665e387e0f516c43f
 
