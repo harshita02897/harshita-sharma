@@ -1,7 +1,7 @@
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 <div >
-  <img src="" align="right" width="300">
+  <img src="https://github.com/harshita02897/harshita02897/blob/main/asset/32903795.jpg" align="right" width="300">
 <ul>
   <li><b>👤 Name: </b> Harshita Sharma</li>
   <li><b>😄 Pronouns:</b> She/Her </li>
@@ -23,6 +23,7 @@
 </p>
 </div>
 <div>
+  <p>
   <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
   - 🔭 coding automation projects & working on my personal website.
@@ -31,5 +32,6 @@
   - 🎮 playing Sudoku and Chess 🧟
   - 📚 Reading: **"The Magic of thinking Big"**
   - 🎮 playing Sudoku and Chess 🧟
+  </p>
 </div>
 
