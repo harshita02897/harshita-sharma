@@ -2,7 +2,6 @@
 
 <div >
   <img src="" align="right" width="300">
-  <img src="https://github.com/harshita02897/harshita-sharma/blob/main/32903795.jpg" align="right" width="300">
 <ul>
   <li><b>👤 Name: </b> Harshita Sharma</li>
   <li><b>😄 Pronouns:</b> She/Her </li>
