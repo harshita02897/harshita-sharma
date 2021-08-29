@@ -1,7 +1,7 @@
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 <div >
-  <img src="https://github.com/harshita02897/harshita02897/blob/main/asset/32903795.jpg" align="right" width="300">
+  <img src="https://github.com/harshita02897/harshita02897/blob/main/asset/unamed.jpg" align="right" width="300">
 <ul>
   <li><b>👤 Name: </b> Harshita Sharma</li>
   <li><b>😄 Pronouns:</b> She/Her </li>
