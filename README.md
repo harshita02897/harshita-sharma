@@ -19,12 +19,12 @@
 
 <div>
   <p>
-  <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
-  - 🌩️ learning Salesforce Vlocity.                                                                                                                                              
-  - 🔭 coding automation projects & working on my personal website.
-  - 🌱 learning Angular and React (Both are SO COOL!)
-  - 📚 Reading: **"The Magic of Thinking Big"**
-  - 🎮 playing Sudoku and Chess 🧟
+    <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
+    <p> - 🌩️ learning Salesforce Vlocity. </p>                                                                                                                                   
+    <p> - 🔭 coding automation projects & working on my personal website.</p>  
+    <p>- 🌱 learning Angular and React (Both are SO COOL!)</p>  
+    <p>- 📚 Reading: **"The Magic of Thinking Big"**</p>  
+    <p>- 🎮 playing Sudoku and Chess 🧟</p>  
   </p>
 </div>
 
