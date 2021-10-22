@@ -6,7 +6,7 @@
   <li><b>👤 Name: </b> Harshita Sharma</li>
   <li><b>😄 Pronouns:</b> She/Her </li>
   <li><b>📍 Location:</b> Jaipur </li>
-  <li><b>💼 Job: </b> Software developer @ <a href="https://www.wipro.com/">Appirio-Wipro</a></li>
+  <li><b>💼 Job: </b> Software developer / Salesforce Admin @ <a href="https://www.wipro.com/">Appirio-Wipro</a></li>
   <li><b>📣 Languages:</b> English & Hindi</li>
 </ul>
 
