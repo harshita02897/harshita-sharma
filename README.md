@@ -20,7 +20,7 @@
 <div>
   <p>
   <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
-
+  - 🌩️ learning Salesforce Vlocity.
   - 🔭 coding automation projects & working on my personal website.
   - 🌱 learning Angular and React (Both are SO COOL!)
   - 📚 Reading: **"The Magic of Thinking Big"**
