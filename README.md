@@ -6,12 +6,12 @@
   <li><b>👤 Name: </b> Harshita Sharma</li>
   <li><b>😄 Pronouns:</b> She/Her </li>
   <li><b>📍 Location:</b> Jaipur </li>
-  <li><b>💼 Job: </b> Software developer / Salesforce Admin @ <a href="https://www.wipro.com/">Appirio-Wipro</a></li>
+  <li><b>💼 Job: </b> Salesforce Admin and aspiring Developer @ <a href="https://www.wipro.com/">Appirio-Wipro</a></li>
   <li><b>📣 Languages:</b> English & Hindi</li>
 </ul>
 
-<p>I'm Harshita Sharma (<i>aka Hash</i>) a computer engineer diving into the world of development. I'm a Salesforce/Vlocity developer at the Appirio Team, 
-  where I support in building application based on salesforce 🚩 . I'm passionate about building application based on JavaScript , Node, Angular
+<p>I'm Harshita Sharma (<i>aka Hash</i>) a computer engineer diving into the world of development. I'm a Salesforce Admin at the Appirio Team, 
+  where I support in building application based on salesforce 🚩 .
 </p>
 
 </div>
